@@ -1,0 +1,4 @@
+﻿node_modules/
+server/data/orders.json
+client/dist/
+.env
