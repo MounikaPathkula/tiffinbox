@@ -1,0 +1,29 @@
+[
+  {
+    "id": "TB4294511526",
+    "items": [
+      {
+        "id": "f09",
+        "name": "Gulab Jamun (2 pcs)",
+        "price": 59,
+        "qty": 1
+      },
+      {
+        "id": "f10",
+        "name": "Masala Chai",
+        "price": 29,
+        "qty": 1
+      }
+    ],
+    "subtotal": 88,
+    "deliveryFee": 25,
+    "total": 113,
+    "customerName": "mounika pathkula",
+    "phone": "8179601933",
+    "address": "ytuyyi",
+    "notes": "ytuiu",
+    "status": "placed",
+    "estimatedMinutes": 30,
+    "placedAt": "2026-07-06T07:20:29.451Z"
+  }
+]

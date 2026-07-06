@@ -1,0 +1,102 @@
+[
+  {
+    "id": "f01",
+    "name": "Dal Tadka Tiffin",
+    "description": "Yellow lentils tempered with cumin and garlic, served with steamed rice and roti.",
+    "price": 149,
+    "category": "Tiffins",
+    "veg": true,
+    "emoji": "🍛",
+    "prepMinutes": 20
+  },
+  {
+    "id": "f02",
+    "name": "Paneer Butter Masala Tiffin",
+    "description": "Cottage cheese cubes in a rich tomato-cashew gravy with butter naan.",
+    "price": 189,
+    "category": "Tiffins",
+    "veg": true,
+    "emoji": "🧈",
+    "prepMinutes": 25
+  },
+  {
+    "id": "f03",
+    "name": "Chicken Curry Tiffin",
+    "description": "Slow-cooked chicken curry, home-style spice blend, with rice and pickle.",
+    "price": 219,
+    "category": "Tiffins",
+    "veg": false,
+    "emoji": "🍗",
+    "prepMinutes": 30
+  },
+  {
+    "id": "f04",
+    "name": "Curd Rice Bowl",
+    "description": "Cooling curd rice tempered with mustard seeds, curry leaves, and pomegranate.",
+    "price": 99,
+    "category": "Rice Bowls",
+    "veg": true,
+    "emoji": "🍚",
+    "prepMinutes": 10
+  },
+  {
+    "id": "f05",
+    "name": "Veg Biryani",
+    "description": "Fragrant basmati rice layered with seasonal vegetables and fried onions.",
+    "price": 169,
+    "category": "Rice Bowls",
+    "veg": true,
+    "emoji": "🍲",
+    "prepMinutes": 25
+  },
+  {
+    "id": "f06",
+    "name": "Hyderabadi Chicken Biryani",
+    "description": "Dum-cooked basmati rice with marinated chicken, served with raita.",
+    "price": 229,
+    "category": "Rice Bowls",
+    "veg": false,
+    "emoji": "🍚",
+    "prepMinutes": 35
+  },
+  {
+    "id": "f07",
+    "name": "Masala Dosa",
+    "description": "Crisp rice crepe filled with spiced potato, served with sambar and chutney.",
+    "price": 119,
+    "category": "Breakfast",
+    "veg": true,
+    "emoji": "🥞",
+    "prepMinutes": 15
+  },
+  {
+    "id": "f08",
+    "name": "Idli Sambar (4 pcs)",
+    "description": "Steamed rice cakes with lentil sambar and coconut chutney.",
+    "price": 89,
+    "category": "Breakfast",
+    "veg": true,
+    "emoji": "⚪",
+    "prepMinutes": 10
+  },
+  {
+    "id": "f09",
+    "name": "Gulab Jamun (2 pcs)",
+    "description": "Warm milk-solid dumplings soaked in cardamom sugar syrup.",
+    "price": 59,
+    "category": "Desserts",
+    "veg": true,
+    "emoji": "🍡",
+    "prepMinutes": 5
+  },
+  {
+    "id": "f10",
+    "name": "Masala Chai",
+    "description": "Strong Assam tea brewed with ginger, cardamom, and milk.",
+    "price": 29,
+    "category": "Beverages",
+    "veg": true,
+    "emoji": "☕",
+    "prepMinutes": 5
+  }
+]
